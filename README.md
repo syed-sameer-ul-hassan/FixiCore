@@ -1,2 +1,2 @@
-# FixiCore
-FixiCore is a CLI tool that scans your system for issues explains them clearly and helps you fix them safely with your approval.
+FixiCore is a cross-platform CLI tool that detects system and security issues, explains them in simple terms, and helps fix them safely with user approval. It works on Linux, macOS, and Windows by running targeted checks, suggesting fixes, and executing commands only when the user agrees.
+Designed for developers and learners, FixiCore focuses on clarity, safety, and practical problem-solving—turning common system misconfigurations into easy-to-understand and fixable tasks.
